@@ -2,42 +2,45 @@
 #EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
 https://youtube.com/@feryiptv
 
-#EXTINF:-1 group-title="CHAMPION TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png", ChampionsTV1_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938
-
-#EXTINF:-1 group-title="CHAMPION TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_2.png", ChampionsTV2_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17939
-
-#EXTINF:-1 group-title="CHAMPION TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_3.png", ChampionsTV3_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=6786
-
-#EXTINF:-1 group-title="CHAMPION TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_5.png", ChampionsTV5_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9182
-
-#EXTINF:-1 group-title="CHAMPION TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_6.png", ChampionsTV6_mpd [ott.nav]
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png" group-title="CHANNEL | SPORT",ASTRO ARENA 1
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/191853.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png" group-title="CHANNEL | SPORT",ASTRO ARENA 2
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/185822.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/yhXNk2n/Astro-Premier-League-2-29.webp" group-title="CHANNEL | SPORT",Astro Supersport 2
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/6589.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/8zzNQzb/bbcearth.png" group-title="CHANNEL | KNOWLEDGE",BBC Earth
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="CHANNEL | KNOWLEDGE",DISCOVERY H&H HD
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/68.ts
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="CHANNEL | KNOWLEDGE",DISCOVERY THEATER HD
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/74.ts
+#EXTINF:-1 tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co.com/8bC9QZF/inwild.png" group-title="CHANNEL | KNOWLEDGE",INWILD 🇬🇧
+https://jmp2.uk/sam-GBBA220000751.m3u8
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-logo="https://i.ibb.co.com/T0hVvvF/lovenature4k.png" group-title="CHANNEL | KNOWLEDGE",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="GBBB1000005IO" tvg-logo="https://i.ibb.co.com/sRhcqHT/realwild.png" group-title="CHANNEL | KNOWLEDGE",REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="GBBC300003UQ" tvg-logo="https://i.ibb.co.com/bHFmc1M/waterbear.png" group-title="CHANNEL | KNOWLEDGE",WaterBear 🇬🇧
+https://jmp2.uk/sam-GBBC300003UQ.m3u8
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://lo1.in/it/mtgp.png" group-title="CHANNEL | 🏍️MOTO GP & F1🏎️",ID: SPOTV
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://lo1.in/it/mtgp.png" group-title="CHANNEL | 🏍️MOTO GP & F1🏎️",ID: SPOTV 2
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://lo1.in/uk/f1.png" group-title="CHANNEL | 🏍️MOTO GP & F1🏎️",DAZN F1
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/47311.m3u8
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://lo1.in/uk/f1.png" group-title="CHANNEL | 🏍️MOTO GP & F1🏎️",SKYSPORT F1
+http://exm3u.extraott.com:900/live/H8M38PVP/GWAVW3MR/47310.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="CHANNEL | INDONESIA 🇮🇩",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="CHANNEL | INDONESIA 🇮🇩",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",MNCTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/d6sfBLj/inews.png" group-title="CHANNEL | INDONESIA 🇮🇩",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="CHANNEL | INDONESIA 🇮🇩",ID: MNC TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://i.ibb.co.com/khnD6CC/gtv.png" group-title="CHANNEL | INDONESIA 🇮🇩",GTV
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-id="iNews.id" tvg
