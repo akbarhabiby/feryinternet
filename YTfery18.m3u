@@ -4,6 +4,16 @@ https://youtube.com/@feryiptv
 #EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="NASIONAL",YT  FERY IPTV
 https://youtube.com/@feryiptv
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Net.id" tvg-logo="https://i.ibb.co.com/4FZ  RKkn/net.png",NET TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="NASIONAL" tvg-logo="https://i.ibb.co.com/bQv  yMnY/antv.png", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#https://flv.intechmedia.net/live/ch108.m3u8
+
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -1115,6 +1125,8 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vYZFv5d/Boi-pbs-kids.jpg" group-title="KIDS", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8a
 
+#EXTM3U
+#EXTM3U billed-msg="FERY IPTV2025"* Connection #0 to host google.com left intact
 **********MOVIES SERIES***********
 #EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MOVIES SERIES",YT  FERY IPTV
 https://youtube.com/@feryipt
