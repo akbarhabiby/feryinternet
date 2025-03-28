@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA 085794973101",REQ PLAYLIST 10k/bulan
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST hub:feryiptv@gmail.com",REQ PLAYLIST 10k/bulan
 https://youtube.com/@feryiptv
 indonesia
 #EXTVLCOPT:http-user-agent=android-R+
@@ -219,7 +219,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTM3U
-#EXTM3U billed-msg="FERY IPTV2025 WA: 085794973101"* Connection #0 to host google.com left intact
+#EXTM3U billed-msg="FERY IPTV2025 : feryiptv@gmail.com"* Connection #0 to host google.com left intact
  
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
