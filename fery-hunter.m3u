@@ -1,13 +1,3 @@
-======Malaysia=======
-
-#EXTINF:-1 group-title="#0. REFRESH MASUKAN ULANG PLAYLIST 2 HARI 1x" group-logo=" https://encrypted-tbn0.gstatic.com/images?
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" group-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png"https://i.ibb.co.com/L6ZwfTH/20240825-134112.png"
-
-#EXTINF:-1 group-title="#0. INFO PL4YL1ST" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",2. DISCLAIMER
-https://bit.ly/4fVtOcd
-
-
 ====event===
 
 #EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
@@ -7172,8 +7162,17 @@ https://dokko1new.iosplayer.ru/dokko1/premium643/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1 group-title="#0. REFRESH MASUKAN ULANG PLAYLIST 2 HARI 1x" group-logo=" https://encrypted-tbn0.gstatic.com/images?
+
+#EXTINF:-1 group-title="#0. INFO PL4YL1ST" group-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png"https://i.ibb.co.com/L6ZwfTH/20240825-134112.png"
+
+#EXTINF:-1 group-title="#0. INFO PL4YL1ST" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",2. DISCLAIMER
+https://youtu.be/NX37M0ASems
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="INFO PL4YL1ST",REQ PLAYLIST 10K/BLN HUB/WA 085794973101
+https://youtube.com/@feryiptv
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
