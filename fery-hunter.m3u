@@ -1152,6 +1152,9 @@ https://ddy6new.iosplayer.ru/ddy6/premium496/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 http://3ebe7e8e.edemist.com/iptv/9X3EU6ZC2T3Z8F/2480/index.m3u8
 
+#EXTM3U
+#EXTM3U billed-msg="FERY IPTV2025: feryiptv@gmail.com"* Connection #0 to host google.com left intact
+
 #EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://media.dfl.de/sites/3/2018/02/BL_Teaser_BL-Logo_Pitch_HD-768x432.jpg",BUNDESLIGA JERMAN 11
 https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8/nowsports.in//&key=Cikwoilah
 #EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://media.dfl.de/sites/3/2018/02/BL_Teaser_BL-Logo_Pitch_HD-768x432.jpg",BUNDESLIGA JERMAN 12
@@ -1604,6 +1607,12 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="FERY IPTV",FeryIptv
+https://youtube.com/@feryiptv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="REQ PLAYSLIST HUB/WA 085794973101",REQ PLAYLIST 10K/BLN HUB/WA 085794973101
+https://youtube.com/@feryiptv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://onpointtraining.co.uk/wp-content/uploads/sites/60/2019/06/og-default-768x403.jpg" group-title="#0. LIVE EVENT", LIGA CHAMPIONS UCL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
