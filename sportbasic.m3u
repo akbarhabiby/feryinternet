@@ -162,7 +162,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTM3U
-#EXTM3U billed-msg="FERY IPTV2025 085794973101"* Connection #0 to host google.com left intact
+#EXTM3U billed-msg="FERY IPTV2025: feryiptv@gmail.com"* Connection #0 to host google.com left intact
 
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
