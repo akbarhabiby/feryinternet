@@ -593,6 +593,103 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871
 #KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="SPORTS PREMIUM", CHAMPIONS TV 1
+http://203.77.246.14:8001/udp/239.1.2.240:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="SPORTS PREMIUM", CHAMPIONS TV 2
+http://203.77.246.14:8001/udp/239.1.2.242:5000
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
+https://dl.dropboxusercontent.com/scl/fi/zf09brw09usr2j1ahstp1/daznf1.m3u8?rlkey=6r31gbl37poka96z09ekkrt5q&st=ny121qb1
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/YbjjcEd.png", DAZN F1
+https://dl.dropboxusercontent.com/scl/fi/m7hvcyxuq3210cw3exkdb/daznf1-2.m3u8?rlkey=epc6inbykey54ytdbj27x5cui
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 1
+https://dl.dropboxusercontent.com/scl/fi/67mha9ppy48picmhv339b/dazn-eleven-1.m3u8?rlkey=bksecwoui0kk4ur9w694wpoie&st=9ikw9a1o
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 2
+https://dl.dropboxusercontent.com/scl/fi/hzuohvvm8ii2uylse3fp0/dazn-eleven-2.m3u8?rlkey=uiep4egmqbs90zu875cc2cc3k&st=yscacidi
+
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 3
+https://dl.dropboxusercontent.com/scl/fi/taplox7s0m43ezfvovanz/dazn-eleven-3.m3u8?rlkey=q98aj45h57crckblzvdn3dq0x&st=kaoxb698
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 4
+https://dl.dropboxusercontent.com/scl/fi/2q6qc4isdtsov9vegm191/dazn-eleven-4.m3u8?rlkey=561ct8o4aomlke4hnagrq61ol&st=ccj5928c
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 5
+https://dl.dropboxusercontent.com/scl/fi/p131eskmgz20jjk79qwnv/dazn-eleven-5.m3u8?rlkey=j4ym3utjczavwkas3cx8ertv9&st=0exhv3n8
+
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/CQrhlG0.jpeg", DAZN 6
+https://dl.dropboxusercontent.com/scl/fi/r56qqz2w7w4c4cbfw8xtl/dazn-eleven-6.m3u8?rlkey=3tgcpbxh91d80o23lgm7j8bzh&st=6mkn4b6w
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/0a9MAZ0.png", MOVISTAR LALIGA
+https://dl.dropboxusercontent.com/scl/fi/rwzbv0r6cgi9g6yjzcv7h/movistar-laliga.m3u8?rlkey=v89h1z2qaaq1afdhea48fmv8u
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/uW8jAsQ.png", MOVISTAR LIGA DE CAMPEONES
+https://dl.dropboxusercontent.com/scl/fi/7eysijipg0e0w2d89q5ur/MOVISTAR-LIGA-DE-CAMPEONES.m3u8?rlkey=o4mcks45r7rsill3upagz6giz
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kX7usO3.png" group-title="SPORTS PREMIUM", NOW PREMIER SPORTS 1
+https://dl.dropboxusercontent.com/scl/fi/li2kqj85upd8jnkfgtjtg/now-premier-sports-1.m3u8?rlkey=nsd2rh0xvuu0r8m29m05t9aql&st=5fp009at
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS PREMIUM", UK: SKY SPORTS MAIN EVENT
+https://dl.dropboxusercontent.com/scl/fi/9wsrnnm33ojr2a2etgzlp/skysportsmainevent.m3u8?rlkey=6gut3adzjpkdakpu2hkwkip5e&st=g57vigou
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="SPORTS PREMIUM", UK: SKY SPORTS MAIN EVENT
+https://dl.dropboxusercontent.com/scl/fi/8et0y4dzvi90ezs6js5fi/skysportsmainevent-2.m3u8?rlkey=g8y8toanp5nyrzj9kx3doldzd
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS PREMIUM", UK: SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/w2jeu8kojqfsskksjnr5l/skysportspl.m3u8?rlkey=8gpod59u0o1npvdbk64p6sx5l
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS PREMIUM", UK: SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/2me8p2rhz8t1gea8vkky2/skysportspl-2.m3u8?rlkey=dyccwxjkhpylrgbbenfqu9i36
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS PREMIUM", UK: SKY SPORTS FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/atbuyjqv3st5h40qz0kw4/sky-sports-football.m3u8?rlkey=zl6sa7uclu7jlzf4e3wwmh6qr
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="SPORTS PREMIUM", UK: SKY SPORTS FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/6kotfvwm950nisn8fl0j4/sky-sports-football-2.m3u8?rlkey=enjuwscrj7un3ruclis1wigko
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://windnew.iosplayer.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/y7tUMQH.png", UK: SKY SPORTS F1
+https://dl.dropboxusercontent.com/scl/fi/0iyq9t4rnogcp0y9tnwbo/skysportsf1.m3u8?rlkey=alojxqd330uxer8gl5yv0uoan&st=4y7ohrm5
+
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
+https://dl.dropboxusercontent.com/scl/fi/hmz8v4t4cwmo5aqkfud2t/skysportsf1_de.m3u8?rlkey=v91hrpa3itm8fjddvs22o0bzh&st=e0o97i8w
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/Pd7QkBn.png", DE: SKY SPORT F1
+https://dl.dropboxusercontent.com/scl/fi/b9tez8phv06g04xme6yq7/skysportsf1_de-2.m3u8?rlkey=yxlo7c9rs4v48muc6v5p5hhs4
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 1
+https://dl.dropboxusercontent.com/scl/fi/9ha3x3wfb61m69pk6dqd8/SPORT-TV-1.m3u8?rlkey=5fpwk2ud0qxndg4qfzaymxcnd
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 2
+https://dl.dropboxusercontent.com/scl/fi/3y88ptp80xe43pdujx0b3/SPORT-TV-2.m3u8?rlkey=55kvu86rwrj4r52bhfpxyq0mz
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 3
+https://dl.dropboxusercontent.com/scl/fi/byrh9mdg7q0olg0wxjzt7/SPORT-TV-3.m3u8?rlkey=sos7pyxjn2fyd15ytwyhd7y1e
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 4
+https://dl.dropboxusercontent.com/scl/fi/qmi5s806h56s5qw4aimli/SPORT-TV-4.m3u8?rlkey=p0fl30q86h8gcn8p70io92fbf
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 5
+https://dl.dropboxusercontent.com/scl/fi/addj626wm28pijopfzzj8/SPORT-TV-5.m3u8?rlkey=tjr6l6my1fdzb35i7x16ww2r2
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://i.imgur.com/wYhaEtS.png", SPORT TV 6
+https://dl.dropboxusercontent.com/scl/fi/j79cuicps0h48ahb3v01o/SPORT-TV-6.m3u8?rlkey=a6gm0u1m0mvx3ix3sy1txdi4z
+
+#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS PREMIUM", UFC FIGHT PASS
+https://dl.dropboxusercontent.com/scl/fi/tv7zvfforxg6r10d465kp/UFC-FIGHT-PASS.m3u8?rlkey=bq2mi43bn3i74bd3ooy4b7yud
+
 ********Arena Sports******
 #EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Arena Sports",YT  FERY IPTV
 https://youtube.com/@feryiptv
