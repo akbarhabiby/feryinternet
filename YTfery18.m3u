@@ -8220,3 +8220,25 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
  
  #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg" group-title="VOD ACTION DZIFP",Annabelle (2014)
  http://abf.filmbluray.id/42vkiwu
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="CHANNEL | SKY SPORT", UK: SKY SPORTS MAIN EVENT
+https://dl.dropboxusercontent.com/scl/fi/9wsrnnm33ojr2a2etgzlp/skysportsmainevent.m3u8?rlkey=6gut3adzjpkdakpu2hkwkip5e&st=g57vigou
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="CHANNEL | SKY SPORT", UK: SKY SPORTS MAIN EVENT
+https://dl.dropboxusercontent.com/scl/fi/8et0y4dzvi90ezs6js5fi/skysportsmainevent-2.m3u8?rlkey=g8y8toanp5nyrzj9kx3doldzd
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="CHANNEL | SKY SPORT", UK: SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/w2jeu8kojqfsskksjnr5l/skysportspl.m3u8?rlkey=8gpod59u0o1npvdbk64p6sx5l
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="CHANNEL | SKY SPORT", UK: SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/2me8p2rhz8t1gea8vkky2/skysportspl-2.m3u8?rlkey=dyccwxjkhpylrgbbenfqu9i36
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="CHANNEL | SKY SPORT", UK: SKY SPORTS FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/atbuyjqv3st5h40qz0kw4/sky-sports-football.m3u8?rlkey=zl6sa7uclu7jlzf4e3wwmh6qr
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="CHANNEL | SKY SPORT", UK: SKY SPORTS FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/6kotfvwm950nisn8fl0j4/sky-sports-football-2.m3u8?rlkey=enjuwscrj7un3ruclis1wigko
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/awvQrIq.jpeg" group-title="CHANNEL | SKY SPORT", CANAL+ PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/r059gu8uo2ql1t2j9d54b/canal-plus-premier-league.m3u8?rlkey=ziop51flyeqxc0wefwfvi38b9&st=jk0zs3n9
