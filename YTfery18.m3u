@@ -376,7 +376,23 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/EPL4.m3u8
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/EPL5.m3u8
 
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",SportHD 1
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true1.m3u8
 
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",SportHD 2
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true2.m3u8
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",SportHD 3
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true3.m3u8
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp",SportHD 4
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true4.m3u8
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" ,Sport 5
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true5.m3u8
+
+#EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" ,Sport 7
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="SPORTS PREMIUM",MY| SPOTV 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
