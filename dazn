@@ -31036,7 +31036,14 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <================================ Trial ============================>
 
+#EXTINF:-1 tvg-logo="https://triatmono.info/wp-content/uploads/2023/12/Red-Spark-vs-Pink-Spiders-banner-650x250.jpg" group-title="[ LIVE EVENT 🔴 ]",[17:00 WIB 08/04/2025] Red Sparks vs Pink Spider - KOVO V League Womens
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/playlist.m3u8?hdnts=st=1744105457~exp=1744137867~acl=*/fhsevbmnunr26yg17wj9j4kytled1knc20c3/*~hmac=346b5fb3ea85fa843b8db2d66c36e58e0e6e82363946f0e66d4f0e2c28f7db4f
 
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/mT9KAUSfg2ZOmVeJspEtN8dY__0=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5180485/original/054779000_1743765694-Piala_Asia_U-17_2025_-_Timnas_Indonesia_U-17_Vs_Yaman_U-17_copy.jpg" group-title="[ LIVE EVENT 🔴 ]",[22.00 WIB 07/04/25] Indonesia U17 vs Yaman U17 - AFC U17 Asian Cup
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
+#https://dusk.biz.id/rp/index.mpd?id=113
 
  
  
