@@ -5165,7 +5165,7 @@ https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8|user-agent=M
 
 
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UCL", UCL 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="#.UCL", UCL 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5173,7 +5173,7 @@ https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8|user-agent=M
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="UCL" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",TNT SPORTS 3
+#EXTINF:-1 group-title="#.UCL" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5181,7 +5181,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="UCL" tvg-id="TNTSports4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",TNT SPORTS 4
+#EXTINF:-1 group-title="#.UCL" tvg-id="TNTSports4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5191,7 +5191,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 
 
 
-#EXTINF:-1 tvg-id="Infinity 1" tvg-logo="https://iili.io/Jp5KHmb.jpg" group-title="UCL", UCL 3
+#EXTINF:-1 tvg-id="Infinity 1" tvg-logo="https://iili.io/Jp5KHmb.jpg" group-title="#.UCL", UCL 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5199,12 +5199,12 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-4-bg.png" group-title="UCL", UCL 7
+#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-4-bg.png" group-title="#.UCL", UCL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.koskoros.ru/wind/premium475/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="UCL", UCL 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="#.UCL", UCL 8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5212,32 +5212,32 @@ https://windnew.koskoros.ru/wind/premium475/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="Bein 2 Mena" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="UCL", UCL 9
+#EXTINF:-1 tvg-id="Bein 2 Mena" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="#.UCL", UCL 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
 
-#EXTINF:-1 tvg-id="Max Sport 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-bg.png" group-title="UCL", UCL 10
+#EXTINF:-1 tvg-id="Max Sport 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/max-sport-2-bg.png" group-title="#.UCL", UCL 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.newkso.ru/wind/premium472/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="UCL", UCL 11
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="#.UCL", UCL 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="UCL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", UCL 12
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="#.UCL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png", UCL 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://top2new.newkso.ru/top2/premium583/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein 1 fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="UCL", UCL 13
+#EXTINF:-1 tvg-id="bein 1 fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="#.UCL", UCL 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="UCL",SS Premier League
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="#.UCL",SS Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
@@ -5246,32 +5246,32 @@ https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports5" group-title="UCL" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beINSports 5 (VISION+) 
+#EXTINF:-1 tvg-id="beINSports5" group-title="#.UCL" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beINSports 5 (VISION+) 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 
-#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
+#EXTINF:-1 group-title="#.UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
 
-#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 AR
+#EXTINF:-1 group-title="#.UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
 
-#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4 AR
+#EXTINF:-1 group-title="#.UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 
-#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5 AR
+#EXTINF:-1 group-title="#.UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
 
-#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 AR
+#EXTINF:-1 group-title="#.UCL" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
