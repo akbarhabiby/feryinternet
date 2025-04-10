@@ -411,7 +411,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
-#EXTINF:-1 tvg-id=""#.LIVE TIMNAS SPORTSTAR"https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png", Sportstars 3 HD (ott.navigator)
+#EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 422].id" tvg-name="Sportstars 3 HD"https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="#.LIVE TIMNAS SPORTSTAR", Sportstars 3 HD (ott.navigator)
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
