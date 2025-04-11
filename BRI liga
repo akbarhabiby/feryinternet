@@ -15080,7 +15080,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.FERY IPTV",FeryIptv
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.LGA775 IPTV",LGA775Iptv
 https://youtube.com/@feryiptv
 
 
@@ -15443,7 +15443,7 @@ https://youtube.com/@feryiptv
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.REQ PLAYSLIST ",REQ PLAYLIST HUB/WA 085794973101
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.REQ PLAYlLIST PREMIUM ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@feryiptv
 
 
@@ -29994,7 +29994,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 #EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
 https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
-#EXTINF:-1 group-title="#.FERY IPTV" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
+#EXTINF:-1 group-title="#.LGA775 IPTV" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
 https://youtu.be/NX37M0ASems
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -30274,7 +30274,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="0.CHANNEL | CHINA" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/Aniworld_logo.png",金鹰卡通
 #EXTINF:-1 group-title="0.CHANNEL | CHINA" tvg-logo="https://n.sinaimg.cn/games/crawl/172/w500h472/20220727/48b6-febbe7ffb0f4d8ac8739ef6816d5425b.png",哒啵电竞
 #EXTM3U
-#EXTM3U billed-msg="FERY IPTV2025"* Connection #0 to host google.com left intact
+#EXTM3U billed-msg="LGA775 IPTV2025"* Connection #0 to host google.com left intact
 
 #EXTINF:-1 group-title="0.CHANNEL | CHINA" tvg-name="" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png/revision/latest/scale-to-width-down/300?cb=20231003151627",TVBS News
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -35769,7 +35769,7 @@ https://storage.googleapis.com/c0bdaf0bc060292fb3a.appspot.com/05ad4ec7756d92921
 
 
 ********BRI LIGA*******
-#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.BRI LIGA",YT  FERY IPTV
+#EXTINF:-1 tvg-id="FeryIptv" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.BRI LIGA",YT  LGA775 IPTV
 https://youtube.com/@feryiptv
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="#.BRI LIGA",channel 1
