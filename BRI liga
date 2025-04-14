@@ -27048,8 +27048,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="#.live bola",RCTI+ timnas
-http://xtv.ooo:8080/live/danyear12/am809100/351023.ts
+#EXTINF:-1 tvg-logo=""https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="#.live bola", RCTI+(ID)	
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="#.live bola" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstar2.png", SPORTSTAR 2 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
